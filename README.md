@@ -1,2 +1,2 @@
 # Master-Thesis
-This folder contain my Project of Master thesis on Smart Governance
+This folder contains my Project of Master thesis on Smart Governance
